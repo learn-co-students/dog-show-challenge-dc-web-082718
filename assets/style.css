@@ -30,6 +30,12 @@ th {
   margin: 20px;
 }
 
+/* added this */
+.margin.flex{
+  margin-top: 75px;
+}
+/* end  */
+
 .blue {
   background-color: #66c2ff;
 }
