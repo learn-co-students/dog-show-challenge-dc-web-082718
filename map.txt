@@ -1,0 +1,14 @@
+Adapter
+- Must be able to fetch all dogs
+- Must be able to fetch one dog
+- Must be able to post data to a new dog
+
+Dog
+- Must be constructed with a name, breed, sex and id
+- Must be able to create a table row for a new dog
+
+DogController
+- Must be able to render all dogs (and should do so on initialization)
+- Must be able to render a single dog
+- Must populate the edit form upon click of the edit button
+- Must handle submission of the edit form
