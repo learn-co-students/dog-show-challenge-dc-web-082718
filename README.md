@@ -1,3 +1,19 @@
+
+
+Srikant Kumar Kalaputapu
+
+********Learning OOJS organization********
+
+Refetching the data and rerendering the page for just one row element is really
+inefficient especially the bigger a table gets (scalability bad) and servers where
+response times are slow.
+
+Can just send the data when the user clicks edit from the DOM itself instead of
+refetching
+
+
+
+
 # Westminster Kennel Club Dog Show
 
 You are responsible for managing the website for the Westminster Kennel Club Dog Show. These dog owners are _very_ competitive. We need to make sure that they can view all the competition (the other dogs) and edit their dog's information.
